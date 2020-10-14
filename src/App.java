@@ -30,6 +30,7 @@ public class App<T> {
                 .collect(Collectors.toList());
 
     }
+    
 //        List<T> result = new ArrayList<>();
 //
 //        for (T l : list) {
